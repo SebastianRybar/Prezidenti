@@ -11,20 +11,11 @@
     padding: 8px;
 }
 
-
-/* .table tbody td:nth-child(1),
-.table tbody td:nth-child(2),
-.table thead th:nth-child(1),
-.table thead th:nth-child(2) {
-    background-color: beige;
-} */
-
 .table caption {
     font-size: 1.2em;
     font-weight: bold;
     margin-bottom: 10px;
 }
-
 .blue {
     background-color: blue;
     color: white;
@@ -33,23 +24,18 @@
     background-color: red;
     color: white;
 }
-.table tbody:nth-of-type(3) td:nth-child(1),
-.table tbody:nth-of-type(3) td:nth-child(2) {
-    background-color: beige; 
+.beige{
+background-color: beige;
 }
-.table  th:nth-child(1),
-.table  th:nth-child(2){
-    background-color: beige; 
-}
-.table  th:nth-child(3){
-    background-color: lightblue; 
-}
-.table  th:nth-child(4){
-    background-color: pink; 
-}
-.cz {
+.lightblue{
     background-color: lightblue;
 }
-.sk{
+.pink{
     background-color: pink;
+}
+.overline{
+    border-top: 5px solid black;
+}
+.underline{
+    border-bottom: 5px solid black;
 }
